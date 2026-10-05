@@ -1,0 +1,5 @@
+//Name: Angelina Chen
+//Date: Oct. 5, 2026
+//Course:CIS-165
+
+For this lab, I used ChatGPT as a resource, because I didn't know how to run the terminal. For some reason, when I did the last lab, there was a run and debug button that I could just click on, but I was unable to find it this time. This time, there was a tab on the left side of my screen that was used for running and debugging, but when it asked me what file to run, I put diamond.cpp, as it was the first one I coded, and it didn't run. Therefore, I asked chatgpt if I could type into the terminal. I asked something along the lines of "How do I run a code on Github codespace if I don't see a button for it?". It said that I could look for the tab, which I did but it didn't work, and then it provided me the prompt. I found out that I have to type g++ diamond.cpp -o diamond in order to save it, then do ./diamond in order to run it. I dind't know that, but it was interesting to know that the code was saved like that. Now, at least I know how to run the code if the run button isn't present for my next lab.
